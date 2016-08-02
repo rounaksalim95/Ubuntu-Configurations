@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Program=$@
+Program=$rounaksalim95@rounaksalim95
 
 wmctrl -l | while read Window; do
     if [[ "$Window" == *"$Program"* ]]; then
