@@ -1,1 +1,2 @@
-# Ubuntu-Configurations
+# Ubuntu-Configurations   
+Configurations for my Ubuntu system. 
