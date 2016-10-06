@@ -12,3 +12,7 @@ Configurations for my Ubuntu system.
 `sudo apt-get update`  
 `sudo apt-get install -y arc-theme`   
 - Also requires the gnome-tweak-tool `sudo apt-get install -y gnome-tweak-tool`
+
+
+# Git 
+- git config --global diff.color.old "red strike"
